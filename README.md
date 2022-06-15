@@ -17,3 +17,12 @@ The second test plan is to use multiple machine learning algorithms to train the
 
 ### Test Plan 3
 The third test plan is using an ensemble learning model to train the dataset. The ensemble learning model is to combine all the machine learning algorithms that were used in the test plan 2 to train the data and classify the sentiment.
+
+## Process of performing sentiment analysis
+1. Implement web crawler to crawl all the news articles from New Straits Times website for sentiment analysis purpose. 
+2. Text Preprocessing
+3. Sentiment Analysis
+4. Data Visualization
+5. Train Test Split
+6. Build machine learning models
+7. Evaluation
