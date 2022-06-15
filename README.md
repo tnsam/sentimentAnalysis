@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# Sentiment Analysis (Natural Language Processing)
 The purpose of this project is to analyze the impact of the COVID-19 pandemic on people’s mental health through material published in the New Straits Times. It is due to the mental health of the people will have an impact on the policies and procedures of the society and government. For instance, the lockdown introduced to control the COVID-19 has caused some people to have suicidal tendencies by staying at home for long periods of time. The second purpose of this study is to analyze and observe the trends of COVID-19 through changes in people’s emotions. For example, people will have more positive emotions when the epidemic is reduced.
 
 ## Background of the applications
